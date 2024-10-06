@@ -22,8 +22,7 @@
       - 지각 횟수 시각화
       - 경향 분석
       - 평균 지각 시간 분석
-<br/>
-<br/>
 
-*Notion*  
-https://www.notion.so/Dash-Real-time-419dc5e3292543caa2ccd2fe485d61b1?pvs=4
+  
+### 📝 Link  
+Notion : Projects / [Dash Real-time](https://wozlsla.notion.site/Dash-Real-time-419dc5e3292543caa2ccd2fe485d61b1)
